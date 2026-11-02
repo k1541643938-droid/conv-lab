@@ -1,0 +1,9 @@
+# 卷积核实验室 —— 在线版依赖
+# Streamlit Cloud / 本地 pip install 都用这一份
+
+streamlit>=1.50,<2
+numpy>=1.24,<3
+pandas>=2.0
+matplotlib>=3.7,<4
+scipy>=1.10,<2
+pillow>=10.0
